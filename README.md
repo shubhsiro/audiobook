@@ -1,2 +1,2 @@
 # audiobook
-This is a simple python3 application to convert text to speech from pdfs.
+This is a simple python3 application to convert text to speech from a PDF.
